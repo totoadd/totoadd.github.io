@@ -1,0 +1,9 @@
+{
+    "status" : {
+        "state" : "En ligne",
+        "bg" : "success",
+        "bug" : "Aucun",
+        "date" : "20/10 à 22:22"
+    },
+    "log" : "Hmm"
+}
