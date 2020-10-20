@@ -1,9 +1,9 @@
 {
     "status" : {
-        "state" : "En ligne",
-        "bg" : "success",
+        "state" : "En maintenance",
+        "bg" : "danger",
         "bug" : "Aucun",
-        "date" : "20/10 à 22:22"
+        "date" : "21/10 à 00:06"
     },
     "log" : {
         "change" : "C'est la première version de ce bot... Il n'y a donc pas encore de changelog.",
