@@ -6,7 +6,7 @@
         "date" : "22/10 à 02:41"
     },
     "log" : {
-        "change" : "-Résolution du décalage horaire entre le serveur (US) et la France. -Modification du mode d’envois des demandes au Support. -Résolution du problème lors de recherches météo. -Ajout de 50 nouveaux sons (103 au total). -Ajout d'emojis pour Totoadd. -Ajout de la commande ‘t-i#[number]’ pour pouvoir choisir l'image que l’on veut voir. -Ajout de la commande ‘t-play#[number]’ pour pouvoir choisir le son que l'on veut écouter. -Ajout de la commande ‘t-say [texte]’ pour pouvoir faire dicter un texte à Totoadd (limité à 200 caractères). -Ajout de la commande ‘t-emojis [nom]’ pour pouvoir ajouter les emojis de Totoadd sur votre serveur. -Ajout d’une partie Status et Changelog sur le site web.",
+        "change" : "Résolution du décalage horaire entre le serveur (US) et la France, modification du mode d’envois des demandes au Support, résolution du problème lors de recherches météo, ajout de 50 nouveaux sons (103 au total), ajout d'emojis pour Totoadd, ajout de la commande ‘t-i#[number]’ pour pouvoir choisir l'image que l’on veut voir, ajout de la commande ‘t-play#[number]’ pour pouvoir choisir le son que l'on veut écouter, ajout de la commande ‘t-say [texte]’ pour pouvoir faire dicter un texte à Totoadd (limité à 200 caractères), ajout de la commande ‘t-emojis [nom]’ pour pouvoir ajouter les emojis de Totoadd sur votre serveur et ajout d’une partie Status et Changelog sur le site web.",
         "date" : "22/10 à 02:41"
     }
 }
