@@ -1,7 +1,7 @@
 {
     "status" : {
-        "state" : "Hors ligne",
-        "bg" : "warning",
+        "state" : "En ligne",
+        "bg" : "success",
         "bug" : "[VOICE_CONNECTION_TIMEOUT] Impossibilité de se connecter au salon vocaux, Totoadd n'arrive pas à établir une connexion au bout de 15 secondes.",
         "date" : "28/11 à 09:29"
     },
